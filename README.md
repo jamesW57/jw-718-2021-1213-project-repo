@@ -2,4 +2,4 @@
 
 // ET 718 and 710 projects
 
-# Screenshots provided
+// Screenshots provided
